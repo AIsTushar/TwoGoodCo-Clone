@@ -4,7 +4,7 @@ Welcome to the TwoGoodCo Landing Page Clone project! This is a single-page websi
 
 ## Demo
 
-Check out the live demo [here](https://github.com/AIsTushar/TwoGoodCo-Clone).
+Check out the live demo [here](https://aistushar.github.io/TwoGoodCo-Clone/).
 
 ## Features
 

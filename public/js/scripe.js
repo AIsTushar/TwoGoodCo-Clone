@@ -42,7 +42,7 @@ function navbarAnimation() {
   gsap.to(".nav-part-1 svg", {
     transform: "translateY(-100%)",
     scrollTrigger: {
-      trigger: "#page1",
+      trigger: "#section-1",
       scroller: "#main",
       start: "top 0",
       end: "top -5%",
@@ -53,7 +53,7 @@ function navbarAnimation() {
     transform: "translateY(-100%)",
     opacity: 0,
     scrollTrigger: {
-      trigger: "#page1",
+      trigger: "#section-1",
       scroller: "#main",
       start: "top 0",
       end: "top -5%",
